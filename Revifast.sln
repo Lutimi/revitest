@@ -12,6 +12,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revifast.Entities", "Revifa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revifast.Data", "Revifast.Data\Revifast.Data.csproj", "{C1F3BB96-95E0-4393-94E7-A3F5CC071041}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "revifast.test", "Revifast.test\revifast.test.csproj", "{A9083DAE-2FC7-4FD9-BAE7-3EEF9B7522DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{C1F3BB96-95E0-4393-94E7-A3F5CC071041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F3BB96-95E0-4393-94E7-A3F5CC071041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F3BB96-95E0-4393-94E7-A3F5CC071041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9083DAE-2FC7-4FD9-BAE7-3EEF9B7522DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9083DAE-2FC7-4FD9-BAE7-3EEF9B7522DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9083DAE-2FC7-4FD9-BAE7-3EEF9B7522DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9083DAE-2FC7-4FD9-BAE7-3EEF9B7522DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

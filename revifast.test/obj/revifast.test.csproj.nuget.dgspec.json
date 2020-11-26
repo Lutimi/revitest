@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\revifast.test\\revifast.test.csproj": {}
+    "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\revifast.test\\revifast.test.csproj": {
+    "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\revifast.test\\revifast.test.csproj",
+        "projectUniqueName": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj",
         "projectName": "revifast.test",
-        "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\revifast.test\\revifast.test.csproj",
-        "packagesPath": "C:\\Users\\misat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\revifast.test\\obj\\",
+        "projectPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj",
+        "packagesPath": "C:\\Users\\obisp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\misat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\obisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,13 +48,21 @@
               "target": "Package",
               "version": "[16.5.0, )"
             },
-            "SpecFlow.Plus.LivingDocPlugin": {
+            "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.4.243, )"
+              "version": "[3.17.0, )"
             },
-            "SpecRun.SpecFlow": {
+            "SpecFlow": {
               "target": "Package",
-              "version": "[3.5.8, )"
+              "version": "[3.5.5, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.5.5, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.5.5, )"
             }
           },
           "imports": [

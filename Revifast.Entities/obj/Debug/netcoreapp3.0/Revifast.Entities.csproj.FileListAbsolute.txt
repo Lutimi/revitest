@@ -79,3 +79,12 @@ C:\Users\misat\OneDrive\Desktop\repositorios\revifast\ReviFast\Revifast.Entities
 C:\Users\misat\OneDrive\Desktop\repositorios\revifast\ReviFast\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csproj.CoreCompileInputs.cache
 C:\Users\misat\OneDrive\Desktop\repositorios\revifast\ReviFast\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.dll
 C:\Users\misat\OneDrive\Desktop\repositorios\revifast\ReviFast\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.pdb
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.deps.json
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.dll
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.pdb
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csprojAssemblyReference.cache
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfoInputs.cache
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfo.cs
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csproj.CoreCompileInputs.cache
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.dll
+C:\Users\obisp\Desktop\EVO-TF\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.pdb
