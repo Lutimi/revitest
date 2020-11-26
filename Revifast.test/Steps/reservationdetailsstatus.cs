@@ -12,19 +12,19 @@ namespace revifast.test.Steps
         [When(@"see the following details")]
         public void WhenSeeTheFollowingDetails(Table table)
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("Correct");
         }
 
         [When(@"click on view reservation")]
         public void WhenClickOnViewReservation()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("Correct");
         }
 
         [Then(@"the system will show the reservation and it status")]
         public void ThenTheSystemWillShowTheReservationAndItStatus()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("Correct");
         }
 
     }

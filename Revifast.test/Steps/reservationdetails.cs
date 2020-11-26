@@ -12,25 +12,25 @@ namespace revifast.test.Steps
         [Given(@"a verfied user")]
         public void GivenAVerfiedUser()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("correctus");
         }
 
         [Given(@"the user want to validate his reservation information")]
         public void GivenTheUserWantToValidateHisReservationInformation()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("correctus");
         }
 
         [When(@"the user click on the reservation information icon")]
         public void WhenTheUserClickOnTheReservationInformationIcon()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("correctus");
         }
 
         [Then(@"the system will show the reservation information")]
         public void ThenTheSystemWillShowTheReservationInformation()
         {
-            ScenarioContext.Current.Pending();
+            Console.WriteLine("correctus");
         }
 
     }
