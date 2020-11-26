@@ -5,7 +5,7 @@
 
 @Delete Reservation
 Scenario: Agree deleting
-	Given the user agree to 'a' a reservation
+	Given the user agree to 'Cancel' a reservation
 	When the user clicks the delete button
 	Then the reservation with id '5' should be deleted
 
