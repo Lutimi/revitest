@@ -8266,19 +8266,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\obisp\\.nuget\\packages\\": {}
+    "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.Api\\Revifast.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.Api\\Revifast.Api.csproj",
       "projectName": "Revifast.Api",
-      "projectPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.Api\\Revifast.Api.csproj",
-      "packagesPath": "C:\\Users\\obisp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.Api\\obj\\",
+      "projectPath": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.Api\\Revifast.Api.csproj",
+      "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\obisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Carlos Tarazona\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8292,8 +8296,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.Data\\Revifast.Data.csproj": {
-              "projectPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.Data\\Revifast.Data.csproj"
+            "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.Data\\Revifast.Data.csproj": {
+              "projectPath": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.Data\\Revifast.Data.csproj"
             }
           }
         }
@@ -8345,6 +8349,14 @@
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
           }
         ],
         "frameworkReferences": {

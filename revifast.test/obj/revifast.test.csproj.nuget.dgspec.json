@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj": {}
+    "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.test\\revifast.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj": {
+    "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.test\\revifast.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.test\\revifast.test.csproj",
         "projectName": "revifast.test",
-        "projectPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\revifast.test.csproj",
-        "packagesPath": "C:\\Users\\obisp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obisp\\Desktop\\EVO-TF\\revitest\\Revifast.test\\obj\\",
+        "projectPath": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.test\\revifast.test.csproj",
+        "packagesPath": "C:\\Users\\Carlos Tarazona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Tarazona\\Desktop\\Repositorio\\revitest\\Revifast.test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\obisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos Tarazona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
