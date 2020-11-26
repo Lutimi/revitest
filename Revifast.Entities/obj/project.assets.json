@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Entities\\Revifast.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
       "projectName": "Revifast.Entities",
-      "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Entities\\Revifast.Entities.csproj",
+      "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
       "packagesPath": "C:\\Users\\misat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Entities\\obj\\",
+      "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

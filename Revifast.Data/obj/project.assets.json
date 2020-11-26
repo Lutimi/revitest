@@ -5074,11 +5074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Data\\Revifast.Data.csproj",
+      "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Data\\Revifast.Data.csproj",
       "projectName": "Revifast.Data",
-      "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Data\\Revifast.Data.csproj",
+      "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Data\\Revifast.Data.csproj",
       "packagesPath": "C:\\Users\\misat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Data\\obj\\",
+      "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5098,8 +5098,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Entities\\Revifast.Entities.csproj": {
-              "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revifast\\ReviFast\\Revifast.Entities\\Revifast.Entities.csproj"
+            "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {
+              "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj"
             }
           }
         }
