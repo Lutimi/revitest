@@ -149,14 +149,22 @@ this.ScenarioInitialize(scenarioInfo);
 #line 15
  testRunner.When("the user click on the reservation information icon", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
+<<<<<<< HEAD
                 TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+=======
+                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
+>>>>>>> 82e0fa8f8623cddac4e69daed537464b96adb47e
                             "Fecha",
                             "Hora",
                             "observaciones",
                             "Vehiculo",
                             "Local",
                             "Confirmado"});
+<<<<<<< HEAD
                 table1.AddRow(new string[] {
+=======
+                table4.AddRow(new string[] {
+>>>>>>> 82e0fa8f8623cddac4e69daed537464b96adb47e
                             "12 de Marzpo",
                             "12:00",
                             "Reserva Pagada",
@@ -164,7 +172,11 @@ this.ScenarioInitialize(scenarioInfo);
                             "Surco",
                             "Si"});
 #line 16
+<<<<<<< HEAD
  testRunner.And("see the following details", ((string)(null)), table1, "And ");
+=======
+ testRunner.And("see the following details", ((string)(null)), table4, "And ");
+>>>>>>> 82e0fa8f8623cddac4e69daed537464b96adb47e
 #line hidden
 #line 19
  testRunner.And("click on view reservation", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
