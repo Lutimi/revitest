@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {}
+    "C:\\Users\\Marcelo\\usr\\services\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {
+    "C:\\Users\\Marcelo\\usr\\services\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Marcelo\\usr\\services\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
         "projectName": "Revifast.Entities",
-        "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
-        "packagesPath": "C:\\Users\\misat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Marcelo\\usr\\services\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
+        "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcelo\\usr\\services\\revitest\\Revifast.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\misat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -41,11 +40,18 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.2, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -80,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

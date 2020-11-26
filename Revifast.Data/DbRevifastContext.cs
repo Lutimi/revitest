@@ -45,6 +45,19 @@ namespace Revifast.Data
             modelBuilder.ApplyConfiguration(new ReservaMap());
             modelBuilder.ApplyConfiguration(new ServicioMap());
             modelBuilder.ApplyConfiguration(new VehiculoMap());
+
+
+            Empresas.Add(
+                new Empresa
+                {
+                    EmpresaId = 1,
+                    Nombre = "Tesla",
+                    Ruc = "NUMERORARO",
+                    Telefono = "946183018",
+                    Correo = "teslamotors@gmail.com",
+                }
+                
+                );
         }
 
     }

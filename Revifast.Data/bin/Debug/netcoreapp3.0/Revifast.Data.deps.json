@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0",
           "Revifast.Entities": "1.0.0",
-          "Swashbuckle.AspNetCore": "5.6.2"
+          "Swashbuckle.AspNetCore": "5.6.2",
+          "System.Linq": "4.3.0"
         },
         "runtime": {
           "Revifast.Data.dll": {}
@@ -805,7 +806,8 @@
       },
       "Revifast.Entities/1.0.0": {
         "dependencies": {
-          "Swashbuckle.AspNetCore": "5.6.2"
+          "Swashbuckle.AspNetCore": "5.6.2",
+          "System.Linq": "4.3.0"
         },
         "runtime": {
           "Revifast.Entities.dll": {}

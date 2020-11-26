@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
     <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.4.243" />
 
@@ -21,12 +22,26 @@
     
     <PackageReference Include="FluentAssertions" Version="5.10.3" />
     
+
+    
+
+    
+
+    
+
+    
+    <PackageReference Include="System.Linq" Version="4.3.0" />
+    
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Drivers\" />
     <Folder Include="Hooks\" />
     <Folder Include="UnitTests\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Revifast.Data\Revifast.Data.csproj" />
   </ItemGroup>
 
 </Project>
