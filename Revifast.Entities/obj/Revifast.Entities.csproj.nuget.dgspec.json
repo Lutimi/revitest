@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {}
+    "D:\\UPC\\Revitest\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {
+    "D:\\UPC\\Revitest\\revitest\\Revifast.Entities\\Revifast.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
+        "projectUniqueName": "D:\\UPC\\Revitest\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
         "projectName": "Revifast.Entities",
-        "projectPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
-        "packagesPath": "C:\\Users\\misat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misat\\OneDrive\\Desktop\\repositorios\\revitest\\Revifast.Entities\\obj\\",
+        "projectPath": "D:\\UPC\\Revitest\\revitest\\Revifast.Entities\\Revifast.Entities.csproj",
+        "packagesPath": "C:\\Users\\hilla\\.nuget\\packages\\",
+        "outputPath": "D:\\UPC\\Revitest\\revitest\\Revifast.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\misat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,9 +40,41 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[87.0.4280.2000, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.5.5, )"
+            },
+            "SpecRun.Runner": {
+              "target": "Package",
+              "version": "[3.5.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.2, )"
+            },
+            "gherkin": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
