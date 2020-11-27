@@ -29,5 +29,10 @@ namespace Revifast.Entities
         public int ReservaEstadoId { get; set; }
         public virtual ReservaEstado ReservaEstado { get; set; }
         // ---------- HAS MANY
+
+        public bool Validate()
+        {
+            return ((Fecha != null) && (Hora != null));
+        }
     }
 }

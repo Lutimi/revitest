@@ -24,5 +24,12 @@ namespace Revifast.Api.Models.Reserva
         public decimal PaAdPorcentaje { get; set; }
         //RESERVA ESTADO
         public string Estado { get; set; }
+
+        public bool Validate()
+        {
+            return ((Fecha != null) && (Hora != null) && (Vehiculo != null) && (Local != null));
+        }
+
+       
     }
 }
