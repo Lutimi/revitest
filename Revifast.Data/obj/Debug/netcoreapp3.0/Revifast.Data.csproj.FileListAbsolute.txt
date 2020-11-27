@@ -1,0 +1,15 @@
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Data.deps.json
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Data.runtimeconfig.json
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Data.runtimeconfig.dev.json
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Data.dll
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Data.pdb
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Entities.dll
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\bin\Debug\netcoreapp3.0\Revifast.Entities.pdb
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.csprojAssemblyReference.cache
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.AssemblyInfoInputs.cache
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.AssemblyInfo.cs
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.csproj.CopyComplete
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.dll
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.pdb
+C:\Users\Marcelo\usr\services\revitest\Revifast.Data\obj\Debug\netcoreapp3.0\Revifast.Data.genruntimeconfig.cache

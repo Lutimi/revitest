@@ -30,6 +30,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Revifast.Entities\Revifast.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="Features\RegisterVehicle.feature.cs">
       <DesignTime>True</DesignTime>
     </Compile>
